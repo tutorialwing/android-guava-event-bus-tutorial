@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EventBusLibraryTutorial</string>
+
+    <string name="message_received">Message Received:</string>
+    <string name="message_main_activity">Message received in MainActivity : </string>
+    <string name="message_second_activity">Message received in SecondActivity : </string>
+    <string name="message_fragment">Message received in Fragment : </string>
+    <string name="title_main">MainActivity</string>
+    <string name="title_fragment">Fragment</string>
+    <string name="title_stickyEvent">StickyEvent Example</string>
+    <string name="hint_message">Enter message</string>
+    <string name="send_message_fragment">Send message to Fragment</string>
+    <string name="send_message_activity">Send message to Activity</string>
+    <string name="show_second_activity">Show Second Activity</string>
+</resources>

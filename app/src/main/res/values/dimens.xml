@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="margin_extra_large">20dp</dimen>
+    <dimen name="margin_large">10dp</dimen>
+    <dimen name="margin_medium">5dp</dimen>
+    <dimen name="padding_large">10dp</dimen>
+    <dimen name="padding_medium">5dp</dimen>
+</resources>
